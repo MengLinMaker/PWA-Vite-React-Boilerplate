@@ -5,8 +5,12 @@
   font-weight: 400;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+}
+
 a {
-  font-weight: 500;
   color: #646cff;
   text-decoration: inherit;
 }
@@ -29,24 +33,20 @@ h1 {
 }
 
 button {
-  border-radius: 8px;
+  border-radius: 0.6em;
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
+  font-size: 2.5rem;
+  font-weight: bold;
   font-family: inherit;
   background-color: #f9f9f9;
   cursor: pointer;
   transition: border-color 0.25s;
+  color: #535bf2;
 }
 
 button:hover {
   border-color: #646cff;
-}
-
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
 }
 
 #root {
@@ -57,7 +57,7 @@ button:focus-visible {
 }
 
 .logo {
-  height: 6em;
+  height: 5em;
   padding: 1.5em;
   will-change: filter;
 }
@@ -66,6 +66,13 @@ button:focus-visible {
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
+}
+.logo.sass:hover {
+  filter: drop-shadow(0 0 2em #fb61c0aa);
+}
+.logo.github {
+  filter: none;
+  height: 1em;
 }
 
 @keyframes logo-spin {
@@ -77,16 +84,49 @@ button:focus-visible {
   }
 }
 
+@keyframes shadow-pulse {
+  from {
+    filter: drop-shadow(0 0 0.5em #44444444);
+    transform: rotate(-1.2deg) translateX(0.6rem);
+  }
+
+  to {
+    filter: drop-shadow(0 0 1.5em #88888888);
+    transform: rotate(0.8deg) translateX(-0.6rem);
+  }
+}
+
 @media (prefers-reduced-motion: no-preference) {
   a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
+    animation: logo-spin infinite 36s linear;
   }
 }
 
 .card {
-  padding: 2em;
+  h1 {
+    animation: shadow-pulse infinite alternate 3.6s ease-in-out;
+  }
 }
 
 .read-the-docs {
-  color: #888;
+  padding-top: 1em;
+  color: #666;
+}
+
+.credits {
+  padding: 0em 1.5em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-weight: normal;
+  font-size: 1.2rem;
+  background-color: white;
+  &:hover {
+    color: black;
+  }
+  .logo {
+    padding: 0 0;
+    padding-right: 0.5em;
+  }
 }
