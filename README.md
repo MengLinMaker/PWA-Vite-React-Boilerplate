@@ -3,13 +3,20 @@ PWA Vite React Boilerplate
 </h1>
 
 <div flex align="center">
-<img alt="GitHub" src="https://img.shields.io/github/license/menglinmaker/PWA-Vite-React-Boilerplate
-?style=flat-square">
-<img src="https://img.shields.io/github/languages/code-size/menglinmaker/PWA-Vite-React-Boilerplate
-?style=flat-square">
-<img src="https://img.shields.io/github/workflow/status/menglinmaker/PWA-Vite-React-Boilerplate
-/Continuous Integration?style=flat-square">
+<img alt="GitHub" src="https://img.shields.io/github/license/menglinmaker/PWA-Vite-React-Boilerplate?style=flat-square">
+<img src="https://img.shields.io/github/languages/code-size/menglinmaker/PWA-Vite-React-Boilerplate?style=flat-square">
+<img src="https://img.shields.io/github/workflow/status/menglinmaker/PWA-Vite-React-Boilerplate/Continuous Integration?style=flat-square">
 <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=success&up_message=online&url=https://menglinmaker-midi-virtual-piano.netlify.app/&style=flat-square">
+</div>
+
+
+
+
+<div flex align='center'>
+<img height=30 src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+<img height=30 src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img height=30 src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img height=30 src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 
 This boilerplate is already preinstalled with:
@@ -19,14 +26,12 @@ This boilerplate is already preinstalled with:
 * *[Sass](https://sass-lang.com/)* CSS preprocessor. To uninstall, type: ```npm uninstall sass``` in terminal.
 * *[Github Action](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)* for continuous integration.
 
-<div flex align='center'>
 
-<img height=30 src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-<img height=30 src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img height=30 src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img height=30 src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
-</div>
+
+
+
+
 
 
 
