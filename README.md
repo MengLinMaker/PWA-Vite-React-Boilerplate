@@ -12,7 +12,7 @@ This boilerplate isalready preinstalled with:
 Note: supply your GitHub user-name and repository-name.
 
 ## Development
-The following terminal commands are from [Vite.js command line interface](https://vitejs.dev/guide/#command-line-interface). Also check the [package.json](https://github.com/MengLinMaker/PWA-Vite-React-Boilerplate/package.json) file "scripts" section for all command line scripts.
+The following terminal commands are from [Vite.js command line interface](https://vitejs.dev/guide/#command-line-interface). Also check the [package.json](https://github.com/MengLinMaker/PWA-Vite-React-Boilerplate/blob/main/package.json) file "scripts" section for all command line scripts.
 
 ### Run development website locally
 ```
