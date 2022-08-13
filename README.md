@@ -19,23 +19,22 @@ PWA Vite React Boilerplate
 <img height=30 src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 
+
+<div>&nbsp</div><div>&nbsp</div><div>&nbsp</div>
+
+# Boilerplate techstack
 This boilerplate is already preinstalled with:
 * *[Vite Plugin PWA](https://vite-plugin-pwa.netlify.app/)* to generate the manifest JSON for *[progressive web app (PWA)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)*.
 * *[Vite.js](https://vitejs.dev/)* frontend tooling to build for production.
 * *[React.js](https://reactjs.org/)* with TypeScript support.
 * *[Sass](https://sass-lang.com/)* CSS preprocessor. To uninstall, type: ```npm uninstall sass``` in terminal.
-* *[Github Action](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)* for continuous integration.
+* *[Github Action](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)* for continuous integration and codeql analysis.
 
 
 
 
 
-
-
-
-
-
-<div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div>
+<div>&nbsp</div><div>&nbsp</div><div>&nbsp</div>
 
 # How to use
 ## Generate GitHub repository
