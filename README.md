@@ -40,7 +40,7 @@ This boilerplate is already preinstalled with:
 # How to use
 ## Generate GitHub repository
 1. Generate your repository from this template: *[Click Here](https://github.com/MengLinMaker/PWA-Vite-React-Boilerplate/generate)*
-2. Clone code to your to remote repository: ```git clone https://github.com/user-name/repository-name```
+2. Clone code to your to remote repository: `git clone https://github.com/user-name/repository-name`
 
 Note: supply your GitHub user-name and repository-name.
 
@@ -66,7 +66,13 @@ npm run dev
 npm run build
 ```
 * Ensure there are no TypeScript errors, otherwise complilation will be aborted.
-* Build files will be placed in the "dist" folder by default. 
+* Build files will be placed in the "dist" folder by default.
+* To change build folder, add this line to *[vite.config.ts](https://github.com/MengLinMaker/PWA-Vite-React-Boilerplate/blob/main/vite.config.ts)* `defineConfig`:
+```javascript
+build: {
+  outDir: './build-directory'
+},
+```
 
 
 
