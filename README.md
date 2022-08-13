@@ -11,7 +11,7 @@ PWA Vite React Boilerplate
 
 <div>&nbsp</div>
 <div align='center'>
-<img height='150' src='https://user-images.githubusercontent.com/39476147/184496091-35faa26b-4591-45bc-90cb-6a215f600e2d.png'/>
+<img width='480' src='https://user-images.githubusercontent.com/39476147/184496091-35faa26b-4591-45bc-90cb-6a215f600e2d.png'/>
 </div>
 <div>&nbsp</div>
 
