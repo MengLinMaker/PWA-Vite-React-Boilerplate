@@ -22,7 +22,7 @@ PWA Vite React Boilerplate
 
 <div>&nbsp</div><div>&nbsp</div><div>&nbsp</div>
 
-# Boilerplate techstack
+# Boilerplate Techstack
 This boilerplate is already preinstalled with:
 * *[Vite Plugin PWA](https://vite-plugin-pwa.netlify.app/)* to generate the manifest JSON for *[progressive web app (PWA)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)*.
 * *[Vite.js](https://vitejs.dev/)* frontend tooling to build for production.
@@ -36,7 +36,7 @@ This boilerplate is already preinstalled with:
 
 <div>&nbsp</div><div>&nbsp</div><div>&nbsp</div>
 
-# How to use
+# How To Use
 ## Generate GitHub repository
 1. Generate your repository from this template: *[Click Here](https://github.com/MengLinMaker/PWA-Vite-React-Boilerplate/generate)*
 2. Clone code to your to remote repository: `git clone https://github.com/user-name/repository-name`
