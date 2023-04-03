@@ -19,6 +19,6 @@
     "sass": "^1.60.0",
     "typescript": "^5.0.2",
     "vite": "^4.2.0",
-    "vite-plugin-pwa": "^0.14.6"
+    "vite-plugin-pwa": "^0.14.7"
   }
 }
