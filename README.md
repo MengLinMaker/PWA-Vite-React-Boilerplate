@@ -7,6 +7,7 @@ PWA Vite React Boilerplate
 <img src="https://img.shields.io/github/languages/code-size/menglinmaker/PWA-Vite-React-Boilerplate?style=flat-square">
 <img src="https://img.shields.io/github/workflow/status/menglinmaker/PWA-Vite-React-Boilerplate/Continuous Integration?style=flat-square">
 <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=success&up_message=online&url=https://menglinmaker-midi-virtual-piano.netlify.app/&style=flat-square">
+<img src="https://img.shields.io/github/forks/menglinmaker/PWA-Vite-React-Boilerplate?label=forks&style=flat-square">
 </div>
 
 <div>&nbsp</div>
