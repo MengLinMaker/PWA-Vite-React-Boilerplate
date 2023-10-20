@@ -14,9 +14,9 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.17",
-    "@types/react-dom": "^18.2.10",
+    "@types/react-dom": "^18.2.13",
     "@vitejs/plugin-react": "^4.0.4",
-    "sass": "^1.68.0",
+    "sass": "^1.69.4",
     "typescript": "^5.2.2",
     "vite": "^4.4.11",
     "vite-plugin-pwa": "^0.16.5"
