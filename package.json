@@ -16,7 +16,7 @@
     "@types/react": "^18.2.64",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.2.1",
-    "sass": "^1.75.0",
+    "sass": "^1.77.0",
     "typescript": "^5.4.5",
     "vite": "^5.1.5",
     "vite-plugin-pwa": "^0.19.8"
